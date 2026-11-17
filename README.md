@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ### 4. Run the Program
 
 ```bash
-python spelling_corrector.py
+python SpellingCorrectorSystem.py
 ```
 
 Enter a sentence containing spelling errors when prompted.
@@ -120,7 +120,7 @@ Enter a sentence containing spelling errors when prompted.
 ```text
 POS-Based-Spelling-Correction/
 │
-├── spelling_corrector.py
+├── SpellingCorrectorSystem.py
 ├── requirements.txt
 └── README.md
 ```
